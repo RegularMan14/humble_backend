@@ -1,0 +1,19 @@
+{
+  "name": "humble_backend",
+  "version": "1.0.0",
+  "description": "basic backend to handle server-client interaction",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Omkar Chowdhury",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
